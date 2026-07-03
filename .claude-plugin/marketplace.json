@@ -1,0 +1,31 @@
+{
+  "name": "founder-skills",
+  "description": "High-signal skills to help early-stage founders cut through conflicting advice from investors, advisors, and accelerators.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "homepage": "https://github.com/yourusername/founder-skills",
+  "skills": [
+    {
+      "name": "evaluate-advice",
+      "path": "evaluate-advice/SKILL.md",
+      "description": "Analyze conflicting advice and decide what to do"
+    },
+    {
+      "name": "pre-seed-pitch",
+      "path": "pre-seed-pitch/SKILL.md",
+      "description": "Prepare for investor conversations at pre-seed and seed stage"
+    },
+    {
+      "name": "validate-idea",
+      "path": "validate-idea/SKILL.md",
+      "description": "Evaluate whether an idea is worth building"
+    },
+    {
+      "name": "build-mvp",
+      "path": "build-mvp/SKILL.md",
+      "description": "Build the smallest useful version to test your assumptions"
+    }
+  ],
+  "commands": [],
+  "agents": []
+}
